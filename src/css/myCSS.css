@@ -1,0 +1,10 @@
+.menuBarButton{
+     -fx-background-color: white;
+     -fx-background-radius: 10;
+}
+.menuBarButton:hover{
+    -fx-background-color: #8dc0eb;
+    -fx-border-radius: 5;
+    -fx-border-color:#46a3f0;
+    -fx-border-width:  3px ;
+}
